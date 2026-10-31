@@ -30,11 +30,6 @@ struct Engineer {
 ### 🚀 Featured Project
 
 #### ⚡ [Tokamak (`tkm`)](https://github.com/BSODsystem32/Tokamak) — *Bare-Metal Markup-to-CUDA Graph JIT Compiler & Deep Learning Engine*
-
-[![View Repo](https://img.shields.io/badge/View_Repository-BSODsystem32%2FTokamak-181717?style=for-the-badge&logo=github)](https://github.com/BSODsystem32/Tokamak)
-[![GitHub Stars](https://img.shields.io/github/stars/BSODsystem32/Tokamak?style=for-the-badge&logo=github&color=yellow)](https://github.com/BSODsystem32/Tokamak/stargazers)
-[![Top Language](https://img.shields.io/github/languages/top/BSODsystem32/Tokamak?style=for-the-badge&color=00599C)](https://github.com/BSODsystem32/Tokamak)
-
 > *Zero Python. Zero PyTorch. Zero LLVM. Pure C & NVRTC.*
 
 An ultra-lightweight, high-performance deep learning JIT compiler built from scratch for hackers who want to build neural networks without the heavy Python/PyTorch ecosystem:
