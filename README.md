@@ -15,9 +15,9 @@
 
 ```c
 struct Engineer {
-    const char* name      = "System32 (System)";
-    const char* pronouns  = "He/Him (18, Freshman / 大一)";
-    const char* hobby     = "Reinventing wheels from scratch (造輪子)";
+    const char* name      = "System32";
+    const char* pronouns  = "He/Him";
+    const char* hobby     = "Reinventing wheels from scratch";
     const char* allergy   = "Bloated frameworks & unnecessary abstractions";
 };
 ```
